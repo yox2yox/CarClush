@@ -7,7 +7,7 @@
 [Bb]uilds/
 [Ll]ogs/
 
-Assets/*
+Assets/**/*
 !Assets/MyAssets
 !/Resources
 
